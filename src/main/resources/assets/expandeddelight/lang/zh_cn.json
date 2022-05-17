@@ -7,6 +7,7 @@
   "item.expandeddelight.asparagus_and_bacon_cheesy": "蘸奶酪的芦笋培根",
   "item.expandeddelight.asparagus_seeds": "芦笋种子",
 
+  "item.expandeddelight.glass_jar": "玻璃罐",
   "item.expandeddelight.raw_cinnamon": "生肉桂",
   "item.expandeddelight.ground_cinnamon": "肉桂粉",
   "item.expandeddelight.salt_rock": "碎岩盐块",
@@ -19,9 +20,12 @@
   "item.expandeddelight.peanut": "花生",
   "item.expandeddelight.peanut_butter": "花生酱",
   "item.expandeddelight.peanut_butter_sandwich": "花生酱三明治",
+  "item.expandeddelight.peanut_salad": "花生沙拉",
+  "item.expandeddelight.peanut_honey_soup": "蜂蜜花生汤",
   "item.expandeddelight.sweet_berry_jelly_sandwich": "花生酱夹果冻三明治",
-  "item.expandeddelight.sweet_roll": "麵包卷",
-  "item.expandeddelight.berry_sweet_roll": "漿果甜卷",
+  "item.expandeddelight.sweet_roll": "甜甜卷",
+  "item.expandeddelight.berry_sweet_roll": "甜浆果卷",
+  "item.expandeddelight.cinnamon_rice": "肉桂饭",
 
   "item.expandeddelight.mortar_and_pestle": "杵臼",
   "item.expandeddelight.mortar_and_pestle.tooltip": "将此物品放于主手，要加工的物品放于副手并按下使用键以捣碎物品",
@@ -47,5 +51,4 @@
   "book.expandeddelight.cook_book": "扩充者的烹饪书",
   "item.expandeddelight.cook_book": "扩充者的烹饪书",
   "text.expandeddelight.landing": "烹饪书暂无内容"
-
 }
